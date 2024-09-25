@@ -5,7 +5,7 @@ let package = Package(
     name: "TnkRwdSdk",
     products: [
         .library(
-            name: "TnkRwdSdk",
+            name: "Offerwall",
             targets: ["TnkRwdSdk"]
         )
     ],
